@@ -16,4 +16,4 @@ After Cleaning up created dashboard with these scenarios:-\
  top 8 customers\
  most and least profit products\
 
- By seeing all the above , the store owner can make decisions and the sales will be increase dramatically.
+ By seeing all the above , the store owner can make decisions and the sales will be increased dramatically.
