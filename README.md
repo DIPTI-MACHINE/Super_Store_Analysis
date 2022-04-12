@@ -4,7 +4,7 @@
 
 In this project i analysed the data which is  from a real world.
 I cleaned the data using power bi query editor
-After Cleaning up created dashboard with below scenario
+After Cleaning up created dashboard with these scenarios:-
  year wise sale,
  total sales,
  quantity,
